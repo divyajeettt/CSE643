@@ -1,0 +1,64 @@
+{
+    "Manali": {
+        "weather": "Cold",
+        "budget": 40000,
+        "activities": [
+            "Trekking",
+            "Camping",
+            "Museums",
+            "Temples",
+            "Skiing"
+        ],
+        "connectivity": [
+            "Car",
+            "Train",
+            "Road"
+        ],
+        "rating": [
+            9.0
+        ],
+        "feedback": [
+            "Very Nice Place Enjoyable"
+        ]
+    },
+    "Kullu": {
+        "weather": "Cold",
+        "budget": 60000,
+        "activities": [
+            "Skiing",
+            "Camping"
+        ],
+        "connectivity": [
+            "Train",
+            "Car",
+            "Bus",
+            "Road"
+        ],
+        "rating": [],
+        "feedback": []
+    },
+    "Jaipur": {
+        "weather": "Hot",
+        "budget": 30000,
+        "activities": [
+            "Forts",
+            "Travel",
+            "Museums",
+            "Food"
+        ],
+        "connectivity": [
+            "Road",
+            "Car",
+            "Bus",
+            "Train",
+            "Flight",
+            "Air"
+        ],
+        "rating": [
+            8.5
+        ],
+        "feedback": [
+            "Nice place to visit"
+        ]
+    }
+}
