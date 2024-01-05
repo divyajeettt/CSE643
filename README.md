@@ -10,4 +10,4 @@
 
 ## About this repository
 
-This repository contains some self-made notes and solutions to all assignments given in the duration of the course.
+This repository contains the solutions to all assignments given in the duration of the course.
